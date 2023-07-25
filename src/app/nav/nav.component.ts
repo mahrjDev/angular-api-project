@@ -6,5 +6,5 @@ import { Component } from "@angular/core";
   styleUrls: ["./nav.component.scss"],
 })
 export class NavComponent {
-  appTitle: string = "Users API";
+  appTitle: string = "API de Usuários";
 }

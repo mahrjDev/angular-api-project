@@ -4,10 +4,7 @@
 * App also submits a simple typed Contact form.
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/angular-api-project?style=plastic)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/angular-api-project?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/angular-api-project?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/angular-api-project?style=plastic)
+
 
 ## :page_facing_up: Table of contents
 
@@ -78,10 +75,6 @@ ngOnInit () {
 
 * This was originally a Gary Simon tutorial but it is no longer available on-line. Here is a link to his website: [designcourse.com](https://designcourse.com/) - worth a look
 
-## :file_folder: License
 
-* This project is licensed under the terms of the MIT license.
 
-## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: `gomezbateman@gmail.com`

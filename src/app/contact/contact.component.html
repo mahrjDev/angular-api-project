@@ -1,20 +1,20 @@
-<h1>Contact us</h1>
+<h1>Entre em contato</h1>
 
 <form [formGroup]="messageForm" (ngSubmit)="onSubmit()">
-  <h5 *ngIf="success">Your form is valid!</h5>
+  <h5 *ngIf="success">Seu formulário é válido!</h5>
 
   <label>
-    Name:
+    Nome:
     <input type="text" formControlName="name" />
     <div *ngIf="submitted && messageForm['controls'].name.errors" class="error">
       <div *ngIf="messageForm.controls['name'].errors.required">
-        Your name is required
+        Seu nome é necessário
       </div>
     </div>
   </label>
 
   <label>
-    Message:
+    Messagem:
     <textarea formControlName="message"></textarea>
     <div
       *ngIf="submitted && messageForm.controls['message'].errors"
